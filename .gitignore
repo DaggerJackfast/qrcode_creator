@@ -1,0 +1,6 @@
+.vscode
+.idea
+certs
+venv
+*.pyc
+*.log
