@@ -1,0 +1,5 @@
+qrcode
+pillow
+flake8
+autopep8
+rope
